@@ -1,0 +1,10 @@
+fun foo() {
+    var a = 1;
+    if (0) {
+        var b = a;
+        if (b) {}
+    }
+    if (bar()) {}
+}
+
+fun bar() {}

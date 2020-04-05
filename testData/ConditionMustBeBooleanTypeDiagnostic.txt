@@ -1,0 +1,2 @@
+ERROR: line 3: Condition of If statement must be boolean type
+ERROR: line 5: Condition of If statement must be boolean type

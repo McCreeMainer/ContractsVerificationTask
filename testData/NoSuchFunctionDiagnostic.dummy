@@ -1,0 +1,6 @@
+fun foo() {
+    var a = bar();
+    var b = baz();
+}
+
+fun bar() {}

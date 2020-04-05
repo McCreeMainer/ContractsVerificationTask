@@ -1,0 +1,2 @@
+ERROR: line 2: Function call 'bar' has invalid count of arguments
+ERROR: line 3: Function call 'baz' has invalid count of arguments

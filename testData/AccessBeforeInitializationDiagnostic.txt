@@ -1,0 +1,6 @@
+ERROR: line 3: Variable 'x' is accessed before initialization
+ERROR: line 4: Variable 'x' is accessed before initialization
+ERROR: line 5: Variable 'x' is accessed before initialization
+ERROR: line 8: Variable 'b' is accessed before initialization
+ERROR: line 14: Variable 'x' is accessed before initialization
+ERROR: line 15: Variable 'b' is accessed before initialization
